@@ -1,0 +1,6 @@
+{
+  "name": "태양·지구·달 3D 천체 시뮬레이션",
+  "description": "태양, 지구, 달의 공전과 자전, 계절의 변화, 달의 위상, 일식과 월식을 실시간 3D로 탐구하는 인터랙티브 천문 시뮬레이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
